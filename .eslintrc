@@ -1,0 +1,15 @@
+{
+  "extends": "flowkuc",
+  "rules": {
+    "no-unused-expressions": "off",
+    "no-empty-function": "off",
+    "@typescript-eslint/no-empty-function": "off",
+    "compat/compat": "warn",
+    "no-constructor-return": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off"
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1630423094828" clover="3.2.0">
+  <project timestamp="1630423094828" name="All files">
+    <metrics statements="70" coveredstatements="65" conditionals="24" coveredconditionals="20" methods="61" coveredmethods="58" elements="155" coveredelements="143" complexity="0" loc="70" ncloc="70" packages="1" files="25" classes="25"/>
+    <file name="Container.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Container.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="1" count="10" type="stmt"/>
+      <line num="5" count="28" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="17" count="6" type="stmt"/>
+    </file>
+    <file name="Either.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Either.js">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="7" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="6" type="stmt"/>
+    </file>
+    <file name="Functor.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Functor.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+    </file>
+    <file name="Just.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Just.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+    </file>
+    <file name="Left.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Left.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="Maybe.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Maybe.js">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="7" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="7" type="stmt"/>
+    </file>
+    <file name="Monad.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Monad.js">
+      <metrics statements="6" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="3"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="Nothing.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Nothing.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+    </file>
+    <file name="Right.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Right.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="Try.js" path="D:\PROJECTS\functional-lib-flowkuc\src\Try.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+    </file>
+    <file name="alternate.js" path="D:\PROJECTS\functional-lib-flowkuc\src\alternate.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+    </file>
+    <file name="compose.js" path="D:\PROJECTS\functional-lib-flowkuc\src\compose.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="curry.js" path="D:\PROJECTS\functional-lib-flowkuc\src\curry.js">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="4" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="demethodise.js" path="D:\PROJECTS\functional-lib-flowkuc\src\demethodise.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="5" type="stmt"/>
+    </file>
+    <file name="getField.js" path="D:\PROJECTS\functional-lib-flowkuc\src\getField.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+    <file name="invert.js" path="D:\PROJECTS\functional-lib-flowkuc\src\invert.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="6" type="stmt"/>
+    </file>
+    <file name="logger.js" path="D:\PROJECTS\functional-lib-flowkuc\src\logger.js">
+      <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="1" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+    </file>
+    <file name="memoize.js" path="D:\PROJECTS\functional-lib-flowkuc\src\memoize.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="not.js" path="D:\PROJECTS\functional-lib-flowkuc\src\not.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="5" type="stmt"/>
+    </file>
+    <file name="once.js" path="D:\PROJECTS\functional-lib-flowkuc\src\once.js">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="4" type="stmt"/>
+    </file>
+    <file name="pipe.js" path="D:\PROJECTS\functional-lib-flowkuc\src\pipe.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="7" type="stmt"/>
+    </file>
+    <file name="promisify.js" path="D:\PROJECTS\functional-lib-flowkuc\src\promisify.js">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <line num="1" count="1" type="cond" truecount="0" falsecount="2"/>
+    </file>
+    <file name="tap.js" path="D:\PROJECTS\functional-lib-flowkuc\src\tap.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+    <file name="unary.js" path="D:\PROJECTS\functional-lib-flowkuc\src\unary.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="3" type="stmt"/>
+    </file>
+    <file name="wrapTiming.js" path="D:\PROJECTS\functional-lib-flowkuc\src\wrapTiming.js">
+      <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
