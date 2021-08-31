@@ -3,5 +3,5 @@ export default {
   transform: {
     '^.+\\.js?$': 'babel-jest',
   },
-  rootDir: './tests',
+  rootDir: './src/tests',
 };
