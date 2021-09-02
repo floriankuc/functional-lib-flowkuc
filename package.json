@@ -2,9 +2,8 @@
   "name": "functional-lib-flowkuc",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.cjs.js",
   "type": "module",
-  "private": true,
   "sideEffects": false,
   "files": [
     "dist/**/*"
