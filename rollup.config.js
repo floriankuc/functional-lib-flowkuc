@@ -7,11 +7,11 @@ export default {
   output: [
     {
       file: `${dist}.js`,
-      format: 'cjs',
+      format: 'es',
     },
     {
-      file: `${dist}.esm.js`,
-      format: 'esm',
+      file: `${dist}.cjs.js`,
+      format: 'cjs',
     },
     {
       file: `${dist}.umd.js`,
